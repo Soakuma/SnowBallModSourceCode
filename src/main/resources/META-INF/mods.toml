@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="snowball"
+version="1.0.0"
+displayName="snowball"
+displayURL=""
+credits=""
+authors="Pinne"
+
+[[dependencies.snowball]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"

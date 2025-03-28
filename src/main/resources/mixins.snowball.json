@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.pinne.snowball.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.snowball.refmap.json",
+  "mixins": [
+    "SnowballMixin",
+    "SnowLayerBlockMixin"
+  ],
+  "client": [],
+  "minVersion": "0.8"
+}
